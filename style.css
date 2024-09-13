@@ -475,6 +475,7 @@ body {
 
 .stats-wrap .progress-bar::-webkit-progress-value {
   border-radius: 4px;
+  background-color: #02d653; /* Verde claro */
 }
 
 .detail-bg {
@@ -530,3 +531,4 @@ div#not-found-message {
   border-color: transparent;
   background-color: transparent;
 }
+

@@ -133,13 +133,12 @@ function setTypeBackgroundColor(pokemon) {
         color
     );
 
-    
-
     setElementStyles(
         document.querySelectorAll(".stats-wrap .progress-bar"),
         "color",
         color
     );
+
 }
 
 function setElementStyles(elements, cssProperty, value){
