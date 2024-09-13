@@ -65,6 +65,6 @@ Esta é uma aplicação web de Pokedex que permite aos usuários visualizar e bu
 
 Este projeto está licenciado sob a MIT License.
 
-```cssharp
-Agora todas as partes estão adequadamente formatadas dentro do Markdown, mantendo a estrutura e o conteúdo.
-```
+   ```cssharp
+   Agora todas as partes estão adequadamente formatadas dentro do Markdown, mantendo a estrutura e o conteúdo.
+   ```
